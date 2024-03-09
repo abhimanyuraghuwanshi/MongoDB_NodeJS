@@ -1,0 +1,15 @@
+
+
+-> User's API
+
+--------------------------------------------------
+
+1* to login user from database & generate jwt
+
+url : http://localhost:8001/user/login
+
+data attached : required condition object (role, email & password)
+method : post
+
+response : json
+
